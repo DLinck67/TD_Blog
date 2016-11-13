@@ -1,0 +1,21 @@
+
+#titre_message
+{
+	font-size: 20px;
+}
+#titre_principale
+{
+	height: 50px;
+	text-align:center;
+	text-decoration:underline;
+}
+#Valider
+{
+	margin-left:60px;
+}
+div#trait
+{
+	height: 5px;
+	margin:0 auto;
+	background-color:red;
+}
